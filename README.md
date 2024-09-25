@@ -1,3 +1,12 @@
+# Stats 700 Project
+
+The following is a fork of nanoGPT for our Stats 700 project. 
+
+Some papers that may or may not be of interest to us (feel free to add papers here that you find!):
+
+- [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
+- [On the Dimensionality of Word Embedding](https://arxiv.org/abs/1812.04224)
+- [Factors Influencing the Surprising Instability of Word Embeddings](https://laura-burdick.github.io/papers/naacl18embeddings.pdf) (the author is from Umich)
 
 # nanoGPT
 
